@@ -19,31 +19,243 @@
         },
         {
             "surah_number": 2,
-            "name": "سورة البقرة",
-            "url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/002%20%20BAQARAH%2C1-16%20T.mp3",
+            "name": "سورة البقرة (الآيات 1-16)",
+            "url": "https://archive.org/download/tafsiirsh/002%20%20BAQARAH%2C1-16%20T.mp3",
             "page_start": 2,
             "page_end": 3,
             "ayah_timestamps": {
-                "0": "00:00",
-                "1": "14:57.441",
-                "2": "5:03.394",
-                "3": "8:12.025",
-                "4": "11:26.043 ",
-                "5": "11:48.440",
-                "6": "14:13.676",
-                "7": "15:52.783",
-                "8": "18:10.493",
-                "9": "20:32.202",
-                "10": "22:11.675",
-                "11": "25:23.634",
-                "12": "26:40.383",
-                "13": "27:43.240",
-                "14": "31:26.190",
-                "15": "33:55.726",
-                "16": "35:28.317"
+                "0": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 17-29)",
+            "url": "https://archive.org/download/tafsiirsh/003%20%20BAQARAH%2C17-29%20T.mp3",
+            "page_start": 4,
+            "page_end": 5,
+            "ayah_timestamps": {
+                "17": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 30-48)",
+            "url": "https://archive.org/download/tafsiirsh/004%20%20BAQARAH%2C30-48%20T.mp3",
+            "page_start": 6,
+            "page_end": 7,
+            "ayah_timestamps": {
+                "30": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 49-61)",
+            "url": "https://archive.org/download/tafsiirsh/005%20%20BAQARAH%2C49-61%20T.mp3",
+            "page_start": 8,
+            "page_end": 9,
+            "ayah_timestamps": {
+                "49": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 62-76)",
+            "url": "https://archive.org/download/tafsiirsh/006%20%20BAQARAH%2C62-76%20T.mp3",
+            "page_start": 10,
+            "page_end": 11,
+            "ayah_timestamps": {
+                "62": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 77-88)",
+            "url": "https://archive.org/download/tafsiirsh/007%20%20BAQARAH%2C77-88%20T.mp3",
+            "page_start": 12,
+            "page_end": 13,
+            "ayah_timestamps": {
+                "77": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 89-101)",
+            "url": "https://archive.org/download/tafsiirsh/008%20%20BAQARAH%2C89-101%20T.mp3",
+            "page_start": 14,
+            "page_end": 15,
+            "ayah_timestamps": {
+                "89": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 102-112)",
+            "url": "https://archive.org/download/tafsiirsh/009%20%20BAQARAH%2C102-112%20T.mp3",
+            "page_start": 16,
+            "page_end": 17,
+            "ayah_timestamps": {
+                "102": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 113-126)",
+            "url": "https://archive.org/download/tafsiirsh/010%20%20BAQARAH113-126%20T.mp3",
+            "page_start": 18,
+            "page_end": 19,
+            "ayah_timestamps": {
+                "113": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 127-141)",
+            "url": "https://archive.org/download/tafsiirsh/011%20Baqarah%20%20127-141.mp3",
+            "page_start": 20,
+            "page_end": 21,
+            "ayah_timestamps": {
+                "127": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 142-153)",
+            "url": "https://archive.org/download/tafsiirsh/012%20%20BAQARAH%2C142-153%20T.mp3",
+            "page_start": 22,
+            "page_end": 23,
+            "ayah_timestamps": {
+                "142": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 154-169)",
+            "url": "https://archive.org/download/tafsiirsh/013%20%20BAQARAH%20154-169%20T.mp3",
+            "page_start": 24,
+            "page_end": 25,
+            "ayah_timestamps": {
+                "154": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 170-182)",
+            "url": "https://archive.org/download/tafsiirsh/014%20%20BAQARAH%2C170-182%20T.mp3",
+            "page_start": 26,
+            "page_end": 27,
+            "ayah_timestamps": {
+                "170": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 183-189)",
+            "url": "https://archive.org/download/tafsiirsh/015%20%20BAQARAH%2C183-189%20T.mp3",
+            "page_start": 28,
+            "page_end": 29,
+            "ayah_timestamps": {
+                "183": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 190-202)",
+            "url": "https://archive.org/download/tafsiirsh/016%20%20BAQARAH%2C190-202%20T.mp3",
+            "page_start": 30,
+            "page_end": 31,
+            "ayah_timestamps": {
+                "190": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 203-215)",
+            "url": "https://archive.org/download/tafsiirsh/017%20%20BAQARAH%2C203-215%20T.mp3",
+            "page_start": 32,
+            "page_end": 33,
+            "ayah_timestamps": {
+                "203": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 216-224)",
+            "url": "https://archive.org/download/tafsiirsh/018%20%20BAQARAH%2C216-224%20T.mp3",
+            "page_start": 34,
+            "page_end": 35,
+            "ayah_timestamps": {
+                "216": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 225-233)",
+            "url": "https://archive.org/download/tafsiirsh/019%20%20BAQARAH%2C225-233%20T.mp3",
+            "page_start": 36,
+            "page_end": 37,
+            "ayah_timestamps": {
+                "225": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 234-245)",
+            "url": "https://archive.org/download/tafsiirsh/020%20%20BAQARAH%2C234-245%20T.mp3",
+            "page_start": 38,
+            "page_end": 39,
+            "ayah_timestamps": {
+                "234": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 246-252)",
+            "url": "https://archive.org/download/tafsiirsh/021%20%20BAQARAH%2C246-252%20T.mp3",
+            "page_start": 40,
+            "page_end": 41,
+            "ayah_timestamps": {
+                "246": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 253-259)",
+            "url": "https://archive.org/download/tafsiirsh/022%20%20BAQARAH%2C253-259%20T.mp3",
+            "page_start": 42,
+            "page_end": 43,
+            "ayah_timestamps": {
+                "253": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 260-269)",
+            "url": "https://archive.org/download/tafsiirsh/023%20%20BAQARAH%2C260-269%20T.mp3",
+            "page_start": 44,
+            "page_end": 45,
+            "ayah_timestamps": {
+                "260": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 270-281)",
+            "url": "https://archive.org/download/tafsiirsh/024%20%20BAQARAH%2C270-281%20T.mp3",
+            "page_start": 46,
+            "page_end": 47,
+            "ayah_timestamps": {
+                "270": "00:00"
+            }
+        },
+        {
+            "surah_number": 2,
+            "name": "سورة البقرة (الآيات 282-286)",
+            "url": "https://archive.org/download/tafsiirsh/025%20%20BAQARAH%2C282-286%20T.mp3",
+            "page_start": 48,
+            "page_end": 49,
+            "ayah_timestamps": {
+                "282": "00:00"
             }
         }
     ]
-
 }
-
