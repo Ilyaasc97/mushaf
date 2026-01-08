@@ -3,7 +3,7 @@
         {
             "surah_number": 1,
             "name": "سورة الفاتحة",
-            "url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/001%20%20FATIHA%20T.mp3",
+            "url": "https://archive.org/download/tafsiirsh/001%20%20FATIHA%20T.mp3",
             "page_start": 1,
             "page_end": 1,
             "ayah_timestamps": {
@@ -46,3 +46,4 @@
     ]
 
 }
+
