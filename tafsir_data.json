@@ -22,7 +22,7 @@
             "name": "سورة البقرة",
             "url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/002%20%20BAQARAH%2C1-16%20T.mp3",
             "page_start": 2,
-            "page_end": 49,
+            "page_end": 3,
             "ayah_timestamps": {
                 "0": "00:00",
                 "1": "14:57.441",
@@ -44,4 +44,5 @@
             }
         }
     ]
+
 }
